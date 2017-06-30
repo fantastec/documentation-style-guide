@@ -31,7 +31,7 @@ As per convention this is treated as a compound noun and should always be hyphen
 
 ### British English vs American English
 
-- At the author's discretion, but pick a style and be consistent. Also consider that the documentation and code may be absorbed into a non-UK-based team.
+At the author's discretion, but pick a style and be consistent. Also consider that the documentation and code may be absorbed into a non-UK-based team.
 
 If a spell check is not availability in the browser or editor, run your documentation through one before committing.
 
@@ -96,6 +96,10 @@ When referring to classes, variables, members, filename, or anything which is ac
 ### Introductions
 
 Aim to begin top-level documentation (`./README.md`) with a short summary/introduction describing the goal or purpose of the codebase in as close to layman's terms as possible.
+
+### Isomorphic vs Universal
+
+Use "isomoprhic" when referring to the symmetrical nature of the architecture. Use universal when refferring to code that can be executed on either the back-end or front-end (only applies to JavaScript). 
 
 ### JavaScript
 
