@@ -69,7 +69,7 @@ As per convention this is treated as a compound noun and should always be hyphen
 
 ### Headings
 
-- Use title case for all headings. If the title contains a hyphenated term (e.g. Front-end), only capitalize the first word.
+Use title case for all headings. If the title contains a hyphenated term (e.g. Front-end), only capitalize the first word.
 
 [titlecase.com](http://titlecase.com) is a useful resource.
 
