@@ -103,7 +103,7 @@ When referring to classes, variables, members, filename, or anything which is ac
 
 ### Introductions
 
-Aim to begin top-level documentation (`./README.md`) with a short summary/introduction describing the goal or purpose of the codebase in as close to layman's terms as possible.
+Aim to begin top-level documentation (e.g. `./README.md`) with a short summary/introduction describing the goal or purpose of the codebase in as close to layman's terms as possible.
 
 ### Isomorphic vs Universal
 
