@@ -2,6 +2,23 @@
 
 A basic style guide to help ensure Colony documentation is consistent between authors and codebases.
 
+#### Contents
+- [#back-end](Back-end)
+- [#british-english-vs-american-english](British English vs American English)
+- [#client-side-vs-client-side](Client Side vs Client-side)
+- [#codebase](Codebase)
+- [#colony-terminology](Colony Terminology)
+- [#front-end](Front-end)
+- [#headings](Headings)
+- [#inline-code](Inline Code)
+- [#introductions](Introductions)
+- [#javascript](JavaScript)
+- [#net](.NET)
+- [#numbers](Numbers)
+- [#server-side-vs-server-side](Server Side vs Server-side)
+- [#subjectivity](Subjectivity)
+- [#third-party-software](Third-party Software)
+
 ### Back-end
 
 As per convention this is treated as a compound noun and should always be hyphenated.
@@ -15,9 +32,11 @@ As per convention this is treated as a compound noun and should always be hyphen
 
 - At the author's discretion, but pick a style and be consistent. Also consider that the documentation and code may be absorbed into a non-UK-based team.
 
-### Client side vs client-side
+If a spell check is not availability in the browser or editor, run your documentation through one before committing.
 
-When used as a noun, seperate with a space. When used as a compound adjective, hyphenate.
+### Client Side vs Client-side
+
+When used as a noun, separate with a space. When used as a compound adjective, hyphenate.
 
 - "when used on the client side" ✅
 - "the client-side view models" ✅
@@ -34,7 +53,7 @@ When using the term codebase, use as a compound noun with no space or hyphen.
 
 ### Colony Terminology
 
-When referring to internal Colony terminology, always suround with quotes on first mention, and make an effort to explain the meaning in as close to layman's terms as possible.
+When referring to internal Colony terminology, always surround with quotes on first mention, and make an effort to explain the meaning in as close to layman's terms as possible.
 
 - 'each cortex "module" is essentially a template to be rendered'
 - 'internally, a request uses a system of "builders" and "queries"'.
@@ -50,14 +69,14 @@ As per convention this is treated as a compound noun and should always be hyphen
 
 ### Headings
 
-- Use title case for all headings. If the title contains a hypenated term (e.g. Front-end), only capitalize the first word.
+- Use title case for all headings. If the title contains a hyphenated term (e.g. Front-end), only capitalize the first word.
 
 - **Getting Started with CortexJS**  ✅
 - **Setting up a Front-end Dev Environment**  ✅
 - **Connecting API endpoints** ❌
 - **Front-End Back-End Workflow ❌
 
-### Inline code
+### Inline Code
 
 When referring to classes, variables, members, filename, or anything which is actually referring to code, inline with a single backtick on each side.
 
@@ -79,7 +98,7 @@ Always use the [official](https://developer.mozilla.org/en-US/docs/Web/JavaScrip
 
 ### .NET
 
-Where possible, use the [official](https://www.microsoft.com/net) spelling in all uppercase, preceeded by a "." character. In situations where non-word characters are illegal or stripped out (e.g. URIs or slugs) use "dotnet" in all lowercase.
+Where possible, use the [official](https://www.microsoft.com/net) spelling in all uppercase, preceded by a "." character. In situations where non-word characters are illegal or stripped out (e.g. URIs or slugs) use "dotnet" in all lowercase.
 
 - .NET ✅
 - /cortex-dotnet/ ✅
@@ -87,17 +106,17 @@ Where possible, use the [official](https://www.microsoft.com/net) spelling in al
 - .net ❌
 - DotNet ❌
 
-# Numbers
+### Numbers
 
 Use words for one through nine, and digits for 10 and above.
 
 - "the codebase consists of four projects" ✅
-- "all 15 controllers enherit from a single base class" ✅
+- "all 15 controllers inherit from a single base class" ✅
 - "data may be populated in one of 2 ways" ❌
 
-### Server side vs server-side
+### Server Side vs Server-side
 
-When used as a stand-alone noun, seperate with a space. When used as a compound adjective, hyphenate.
+When used as a stand-alone noun, separate with a space. When used as a compound adjective, hyphenate.
 
 - "when used on the server side" ✅
 - "the server-side view models" ✅
@@ -106,7 +125,7 @@ When used as a stand-alone noun, seperate with a space. When used as a compound 
 
 ### Subjectivity
 
-Avoid unneccessary subjective descriptions of our code/product. Stay objective and technical.
+Avoid unnecessary subjective descriptions of our code/product. Stay objective and technical.
 
 - "providing a slick user experience" ❌
 - "an innovative architecture" ❌
