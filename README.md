@@ -58,6 +58,14 @@ When referencing multiline code, use code blocks by adding three backticks at th
 
 More information [here](https://help.github.com/articles/creating-and-highlighting-code-blocks/).
 
+```js
+const foo = 'bar';
+
+function baz(bat) {
+   return 3 * bar;
+}
+```
+
 ### Colony Terminology
 
 When referring to internal Colony terminology, always surround with quotes on first mention, and make an effort to explain the meaning in as close to layman's terms as possible.
