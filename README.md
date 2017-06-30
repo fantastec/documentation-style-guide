@@ -3,21 +3,21 @@
 A basic style guide to help ensure Colony documentation is consistent between authors and codebases.
 
 #### Contents
-- [#back-end](Back-end)
-- [#british-english-vs-american-english](British English vs American English)
-- [#client-side-vs-client-side](Client Side vs Client-side)
-- [#codebase](Codebase)
-- [#colony-terminology](Colony Terminology)
-- [#front-end](Front-end)
-- [#headings](Headings)
-- [#inline-code](Inline Code)
-- [#introductions](Introductions)
-- [#javascript](JavaScript)
-- [#net](.NET)
-- [#numbers](Numbers)
-- [#server-side-vs-server-side](Server Side vs Server-side)
-- [#subjectivity](Subjectivity)
-- [#third-party-software](Third-party Software)
+- [Back-end](#back-end)
+- [British English vs American English](#british-english-vs-american-english)
+- [Client Side vs Client-side](#client-side-vs-client-side)
+- [Codebase](#codebase)
+- [Colony Terminology](#colony-terminology)
+- [Front-end](#front-end)
+- [Headings](#headings)
+- [Inline Code](#inline-code)
+- [Introductions](#introductions)
+- [JavaScript](#javascript)
+- [.NET](#net)
+- [Numbers](#numbers)
+- [Server Side vs Server-side](#server-side-vs-server-side)
+- [Subjectivity](#subjectivity)
+- [Third-party Software](#third-party-software)
 
 ### Back-end
 
