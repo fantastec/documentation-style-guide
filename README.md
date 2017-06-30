@@ -9,6 +9,7 @@ A basic style guide to help ensure Colony documentation is consistent between au
 - [Codebase](#codebase)
 - [Code Blocks](#code-blocks)
 - [Colony Terminology](#colony-terminology)
+- [Contents](#contents)
 - [Front-end](#front-end)
 - [Headings](#headings)
 - [Inline Code](#inline-code)
@@ -72,6 +73,15 @@ When referring to internal Colony terminology, always surround with quotes on fi
 
 - "each Cortex 'module' is essentially a template to be rendered"
 - "internally, a request uses a system of 'builders' and 'queries'"
+
+### Contents
+
+If the document is large and broken into to headed sub-sections, include a bulleted list of links at the top of the document after the summary, headed with "Contents". Ensure the contents is kept up to date as sections are added/removed, and test each link.
+
+#### Contents
+- [Section 1](#contents)
+- [Section 2](#contents)
+- [Section 3](#contents)
 
 ### Front-end
 
