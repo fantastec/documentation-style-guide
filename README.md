@@ -33,7 +33,7 @@ As per convention this is treated as a compound noun and should always be hyphen
 
 At the author's discretion, but pick a style and be consistent. Also consider that the documentation and code may be absorbed into a non-UK-based team.
 
-If a spell check is not availability in the browser or editor, run your documentation through one before committing.
+If a spell check is not available in the browser or editor, run your documentation through one before committing.
 
 ### Client Side vs Client-side
 
