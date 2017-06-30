@@ -105,7 +105,7 @@ Use title case for all headings. If the title contains a hyphenated term (e.g. F
 
 ### Inline Code
 
-When referring to classes, variables, members, filename, or anything which is actually referring to code, inline as a monospace font by adding a single backtick on each side.
+When referring to classes, variables, members, filenames, or anything referrencing actual code, inline as a monospace font by adding a single backtick on each side.
 
 - "in this case, `ControllerBase` is extended" ✅
 - "the `layout` property refers to the name of an associated module" ✅
