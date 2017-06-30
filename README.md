@@ -62,8 +62,8 @@ More information [here](https://help.github.com/articles/creating-and-highlighti
 
 When referring to internal Colony terminology, always surround with quotes on first mention, and make an effort to explain the meaning in as close to layman's terms as possible.
 
-- 'each cortex "module" is essentially a template to be rendered'
-- 'internally, a request uses a system of "builders" and "queries"'.
+- "each cortex "module" is essentially a template to be rendered"
+- "internally, a request uses a system of 'builders' and 'queries'"
 
 ### Front-end
 
