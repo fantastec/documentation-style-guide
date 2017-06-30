@@ -76,7 +76,7 @@ Use title case for all headings. If the title contains a hyphenated term (e.g. F
 - **Getting Started with CortexJS**  ✅
 - **Setting up a Front-end Dev Environment**  ✅
 - **Connecting API endpoints** ❌
-- **Front-End Back-End Workflow ❌
+- **Front-End Back-End Workflow** ❌
 
 ### Inline Code
 
