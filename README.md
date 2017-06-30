@@ -71,6 +71,8 @@ As per convention this is treated as a compound noun and should always be hyphen
 
 - Use title case for all headings. If the title contains a hyphenated term (e.g. Front-end), only capitalize the first word.
 
+[titlecase.com](http://titlecase.com) is a useful resource.
+
 - **Getting Started with CortexJS**  ✅
 - **Setting up a Front-end Dev Environment**  ✅
 - **Connecting API endpoints** ❌
