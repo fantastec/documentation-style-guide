@@ -7,6 +7,7 @@ A basic style guide to help ensure Colony documentation is consistent between au
 - [British English vs American English](#british-english-vs-american-english)
 - [Client Side vs Client-side](#client-side-vs-client-side)
 - [Codebase](#codebase)
+- [Code Blocks](#code-blocks)
 - [Colony Terminology](#colony-terminology)
 - [Front-end](#front-end)
 - [Headings](#headings)
@@ -51,6 +52,12 @@ When using the term codebase, use as a compound noun with no space or hyphen.
 - Code base ❌
 - code-base ❌
 
+### Code Blocks
+
+When referencing multiline code, use code blocks by adding three backticks at the top and bottom of the block. Add language syntax highlighting where possible by adding the language after the first three backticks (e.g. js, cs, json).
+
+More information [here](https://help.github.com/articles/creating-and-highlighting-code-blocks/).
+
 ### Colony Terminology
 
 When referring to internal Colony terminology, always surround with quotes on first mention, and make an effort to explain the meaning in as close to layman's terms as possible.
@@ -80,7 +87,7 @@ Use title case for all headings. If the title contains a hyphenated term (e.g. F
 
 ### Inline Code
 
-When referring to classes, variables, members, filename, or anything which is actually referring to code, inline with a single backtick on each side.
+When referring to classes, variables, members, filename, or anything which is actually referring to code, inline as a monospace font by adding a single backtick on each side.
 
 - "in this case, `ControllerBase` is extended" ✅
 - "the `layout` property refers to the name of an associated module" ✅
@@ -127,10 +134,11 @@ When used as a stand-alone noun, separate with a space. When used as a compound 
 
 ### Subjectivity
 
-Avoid unnecessary subjective descriptions of our code/product. Stay objective and technical.
+Avoid unnecessary subjective descriptions of our code/product. Stay objective and technical. Also avoid using "we", "us", etc unless the documentation is something like a blog post or historical overview.
 
 - "providing a slick user experience" ❌
 - "an innovative architecture" ❌
+- "we've decided to use a functional pattern" ❌
 
 ### Third-party Software
 
