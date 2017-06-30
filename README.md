@@ -107,7 +107,7 @@ Aim to begin top-level documentation (`./README.md`) with a short summary/introd
 
 ### Isomorphic vs Universal
 
-Use "isomorphic" when referring to the symmetrical nature of the architecture. Use universal when referring to code that can be executed on either the back-end or front-end (only applies to JavaScript). 
+Use "isomorphic" when referring to the symmetrical nature of the architecture. Use universal when referring to code that can be executed on either the server or client (only applies to JavaScript). 
 
 ### JavaScript
 
