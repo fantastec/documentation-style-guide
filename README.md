@@ -84,7 +84,7 @@ When referring to classes, variables, members, filename, or anything which is ac
 
 - "in this case, `ControllerBase` is extended" ✅
 - "the `layout` property refers to the name of an associated module" ✅
-- "each item in routes.json represents a discrete URL structure" ✅
+- "each item in routes.json represents a discrete URL structure" ❌
 
 ### Introductions
 
