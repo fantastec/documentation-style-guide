@@ -19,6 +19,7 @@ A basic style guide to help ensure Colony documentation is consistent between au
 - [Numbers](#numbers)
 - [Server Side vs Server-side](#server-side-vs-server-side)
 - [Subjectivity](#subjectivity)
+- [Future Work & Improvements](#future-work--improvements)
 - [Third-party Software](#third-party-software)
 
 ### Back-end
@@ -161,6 +162,10 @@ Avoid unnecessary subjective descriptions of our code/product. Stay objective an
 - "providing a slick user experience" ❌
 - "an innovative architecture" ❌
 - "we've decided to use a functional pattern" ❌
+
+### Future Work & Improvements
+
+Avoid describing how something could be improved or should be done in an ideal world, unless the purpose of the document is a roadmap or todo list. Document a feature as it currently stands or fix it before documenting it.
 
 ### Third-party Software
 
