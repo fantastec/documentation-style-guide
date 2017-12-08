@@ -14,6 +14,7 @@ A basic style guide to help ensure Colony documentation is consistent between au
 - [Headings](#headings)
 - [Inline Code](#inline-code)
 - [Introductions](#introductions)
+- [Isomorphic vs Universal](#isomorphic-vs-universal)
 - [JavaScript](#javascript)
 - [.NET](#net)
 - [Numbers](#numbers)
